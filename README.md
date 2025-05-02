@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Juan
 
-🎯 **Analista del Gobierno Vasco** con más de 25 años de experiencia en el desarrollo de aplicaciones en entornos administrativos.
+🎯 **Analista del Gobierno Vasco** con más de 25 años de experiencia en el desarrollo de aplicaciones en entornos administrativos y privados.
 
 ## 💼 Experiencia
 
@@ -11,7 +11,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 - COBOL / entornos mainframe  
-- .NET / C#  
+- .NET / C# / VB.net
 - HTML / CSS / JavaScript  
 - Python  
 - SQL  
