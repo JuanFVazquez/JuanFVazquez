@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan
 
-<!--
-**JuanFVazquez/JuanFVazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Analista del Gobierno Vasco** con más de 25 años de experiencia en el desarrollo de aplicaciones en entornos administrativos.
 
-Here are some ideas to get you started:
+## 💼 Experiencia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Especialista en **análisis, diseño y desarrollo** de aplicaciones para el sector público.  
+🔹 Amplio recorrido trabajando con **entornos host (COBOL)**, pero también cómodo en **.NET**, **aplicaciones web modernas** y **scripts en Python**.  
+🔹 Experiencia consolidada en proyectos complejos, en equipos multidisciplinares, y con un fuerte compromiso con la calidad del software.
+
+## 🛠️ Tecnologías y herramientas
+
+- COBOL / entornos mainframe  
+- .NET / C#  
+- HTML / CSS / JavaScript  
+- Python  
+- SQL  
+- Git & GitHub  
+
+## 💡 Intereses actuales
+
+- Modernización de aplicaciones legacy  
+- Automatización de procesos mediante scripts  
+- Mejora continua del código y buenas prácticas en equipos de desarrollo  
+- Aprendizaje continuo en tecnologías emergentes
+
+## 📫 Contacto
+
+Si quieres conectar o colaborar, puedes escribirme por aquí en GitHub. ¡Siempre es buen momento para compartir ideas!
+
+---
+
+> *"La experiencia no es solo el tiempo que pasa, sino lo que aprendes y compartes mientras tanto."*
+
