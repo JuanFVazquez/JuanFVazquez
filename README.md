@@ -2,6 +2,8 @@
 
 🎯 **Analista del Gobierno Vasco** con más de 25 años de experiencia en el desarrollo de aplicaciones en entornos administrativos y privados.
 
+![Banner de Juan Vázquez](./assets/juan_vazquez.png)
+
 ## 💼 Experiencia
 
 🔹 Especialista en **análisis, diseño y desarrollo** de aplicaciones para el sector público.  
